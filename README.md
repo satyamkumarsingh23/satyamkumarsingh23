@@ -1,4 +1,4 @@
-<img align="center" alt="image" width="400" src="IMG_8514.JPG">
+<img align="right" alt="image" width="400" src="IMG_8514.JPG">
 <h1 align="center">Hi 👋, I'm Satyam Kumar Singh</h1>
 <h3 align="center">A passionate frontend development learner</h3>
 
