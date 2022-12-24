@@ -7,7 +7,7 @@
 
 - 📄 Know about me [www.satyamkumarsingh.com.np](www.satyamkumarsingh.com.np)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
