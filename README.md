@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumarsingh23&show_icons=true&locale=en" alt="satyamkumarsingh23" /></p>
 
-<p><img align="center" background-color="black" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarsingh23&" alt="satyamkumarsingh23" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarsingh23&" alt="satyamkumarsingh23" /></p>
